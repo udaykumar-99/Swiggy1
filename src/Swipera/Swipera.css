@@ -1,0 +1,6 @@
+.swiper :nth-child(1) {
+    height: 250px;
+    width: 450px;
+    gap: 3rem;
+    display: flex;
+}
